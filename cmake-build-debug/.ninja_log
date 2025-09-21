@@ -1,0 +1,6 @@
+# ninja log v6
+125	276	7761034238252960	sqlite_test.exe	d7d005deaa7e00bd
+3	475	7775847075575779	build.ninja	11ff00a7c34b2cbe
+23	10655	7761048085162068	CMakeFiles/Stockmanager.dir/lib/sqlite/sqlite3.c.obj	7140123cfd8598dc
+10	360	7761048085032112	CMakeFiles/Stockmanager.dir/main.c.obj	6976fc26b5efa3ac
+10658	10968	7761048191507648	Stockmanager.exe	880f8c02aa051c55
